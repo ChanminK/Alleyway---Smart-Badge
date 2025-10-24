@@ -1,0 +1,10 @@
+Item,Description,Quantity,Price,Link
+ESP32-C3 Dev Board,Main microcontroller (ESP32-C3),1,9.90,https://www.amazon.com/gp/product/B0B94JZ2YF/ref=ox_sc_act_image_3?smid=A1YP59NGBNBZUR&psc=1
+2.13" E-Ink Display,SPI e-paper module for badge text/graphics,1,17.56,https://www.amazon.com/gp/product/B07Z1WYRQH/ref=ox_sc_act_image_2?smid=A3B0XDFTVR980O&psc=1
+USB Power Bank 5000mAh,Portable 5V power source,1,9.99,https://www.amazon.com/gp/product/B0FPM6FWBR/ref=ox_sc_act_title_1?smid=A2W9L7ZI47KT3H&psc=1
+2.54mm Pin Headers (20pcs x 40pin),Headers for plugging display/ESP32 (optional),1,9.99,https://www.amazon.com/gp/product/B07R5QDL8D/ref=ox_sc_act_image_4?smid=A30QSGOJR8LMXA&psc=1
+Jumper Wires (F-F / F-M),No-solder wiring between ESP32 and e-ink,1,0,from previous project
+Short USB Cable (to power ESP32),Power from bank to board (USB-C/Micro per board),1,0,from previous project
+Mount/Backer (acrylic or card),Badge backing to mount display + board,1,0,from previous project
+Tape/Velcro (mounting),Attach parts to backer or lanyard clip,1,0,from previous project
+Total,,,47.45,
